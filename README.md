@@ -1,13 +1,13 @@
 # Haber sitesinden Veri seti oluşturma
 
 ## Kullanılan Kütüphaneler
-- requests
-- pandas
-- WordCloud
-- CountVectorizer
-- matplotlib
-- Word2Vec
-- BeautifulSoup
+- requests<br/>
+- pandas<br/>
+- WordCloud<br/>
+- CountVectorizer<br/>
+- matplotlib<br/>
+- Word2Vec<br/>
+- BeautifulSoup<br/>
 
 ## Yapılan İşlemler
 - Öncelikle Dünyahalleri.com sitesinden en az 100 haberin “Link, Başlık, Haber İçeriği, Haber Zamanı” bilgilerini de barındıran veri setimizi oluşturuyoruz. Bunun için BeautifulSoup kullandık. Ardından gerekli kodları yazmaya başladık.
