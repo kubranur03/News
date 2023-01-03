@@ -146,8 +146,8 @@ Bu projede bir haber sitesindenen az 100 haberi ve bu haberlerin gerekli bilgile
 <br/>
 
 
-## Kübra Nur GÜLER<br/><br/>
-## Edanur ÖZTEMUR<br/><br/>
+## Kübra Nur GÜLER - 181906079<br/><br/>
+## Edanur ÖZTEMUR - 193405052<br/><br/>
 
 
 
