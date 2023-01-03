@@ -132,8 +132,8 @@
 <br/>
 
 
-## Kübra Nur GÜLER
-## Edanur ÖZTEMUR
+## Kübra Nur GÜLER<br/><br/>
+## Edanur ÖZTEMUR<br/><br/>
 
 
 
