@@ -46,7 +46,12 @@
 <br/>
 <br/>
 ### Haber Metni Kelime Sayısı:<br/><br/>
-![Haber Metni Kelime Sayısı](https://user-images.githubusercontent.com/81531142/210434748-bae30a88-dac2-4063-9bbc-1d95a693710b.png) <br/>
+
+![Haber Metni Kelime Sayısı](https://user-images.githubusercontent.com/81531142/210434748-bae30a88-dac2-4063-9bbc-1d95a693710b.png)
+
+<br/>
+
+
 - Şimdi de haber metinlerinde en çok geçen popüler kelimelerin ilk 20 tanesini totalde kaç kere geçtiği bilgisini de veren listeleme işlemi yaptık. Gördüğümüz gibi en çok kullanılan kelimeleri listelediğimiz zaman stop words olarak adlandırdığımız pek de anlamlı olmayan kelimeler popüler olarak listelenmekte. <br/>
 
 <br/>
@@ -61,6 +66,10 @@
 ### Stop Words sonrası En Popüler 20 kelime:<br/><br/>
 
 ![Stop Words sonrası En Popüler 20 kelime](https://user-images.githubusercontent.com/81531142/210434734-204733aa-97e4-470b-abd9-3f41cff06d60.png)
+
+<br/>
+
+
 -Sonrasında da en çok peşpeşe kullanılan kelime üçlülerini(trigram) listeledik ve matplotlib ile grafiğini çizdirdik.
 
 <br/>
