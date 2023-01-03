@@ -69,11 +69,32 @@
 
 <br/>
 
+-Elde ettiğimiz verileri kullanmak için en popüler kelimelerin bigram (ikililerine) bakalım.
+<br/>
+<br/>
+### En Popüler 20 Bigram:<br/><br/>
 
--Sonrasında da en çok peşpeşe kullanılan kelime üçlülerini(trigram) listeledik ve matplotlib ile grafiğini çizdirdik.
+![En Popüler 20 Bigram] (https://user-images.githubusercontent.com/81531142/210437194-859d1734-10d0-43cf-ae87-82f65f6727c9.png)
 
 <br/>
 
+-Sonrasında da en çok peşpeşe kullanılan kelime üçlülerini(trigram) listeledik ve matplotlib ile grafiğini çizdirdik.
+<br/>
+<br/>
+### En Popüler 20 Trigram:<br/><br/>
+
+![En Popüler 20 Trigram] (https://user-images.githubusercontent.com/81531142/210437178-701a190d-1eba-4b34-bd1b-b18d699fd3ad.png)
+
+<br/>
+
+-Daha görsel bir şey yapmak istediğimiz için WordCloud (Kelime Bulutu) işlemi yaptık. Bu görselleştirme metodu en kısa tanımıyla seçilen metinde kelimenin görünüm sıklığını gösterir ve kelimenin boyutunu kelimenin kullanım sıklığına göre değişir. Daha sonra tüm kelimeler bir küme ya da kelime bulutu şeklinde düzenlenir. Alternatif olarak, kelimeler yatay çizgiler, sütunlar veya bir şekil halinde de düzenlenebilir. Bizde elimizdeki veri seti ile haberlerde en çok kullanılan kelimelerin yoğunluğunu baz alan bir kelime bulutu oluşturduk.
+<br/>
+<br/>
+### WordCloud:<br/><br/>
+
+![WordCloud] (https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+
+<br/>
 
 - Matplotlib ile gerekli işlemleri yaptıktan sonra veri ile Word2Vec modellemesi yapıyoruz. Dfsplit ile metinleri kelime kelime ayırıp bu değişkenin içerisinde sakladık. Daha sonra da modelimizi oluşturup kaydettik. Böylece her seferinde parçalama işlemini yapıp modali oluşturma zahmetinden kurtulmuş olduk. 
 
@@ -83,6 +104,12 @@
 
 <br/>
 
+-Yaptığımız modeli test etmek adına şöyle bir örnek yapabiliriz. Gireceğimiz "Dünya" kelimesi ile benzerliği en yüksek olan 15 kelimeyi ve benzerlik oranını getiren bir kod yazalım.
+### Test:<br/><br/>
+
+![Test] (https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+
+<br/>
 
 - Burada önemli olan bir diğer husus ise zaman ve performans kısıtlamaları olması nedeniyle işlemlerimizi 60 satır ile sınırlı hale getirmiş olmamız. Ama bu projemizde 250 satır ile veri işlediğimiz için şu an 60 ile sınırlandırmayıp 250 satır ile işlem yaptığımızda işlemlerimiz daha sağlıklı çalışacak. 
 
@@ -93,7 +120,14 @@
 
 <br/>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- Seçtiğimiz Dünya, Teknoloji, Yapay, Blockchain, Robotik kelimelerine en yakın 5 kelimeyi bulup, bu bulduğumuz verileri bir df içinde tutalım.
+<br/>
+### En Yakın 5 Kelime:<br/><br/>
+
+![En Yakın 5 Kelime] (https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+
+<br/>
+
 
 ## Kübra Nur GÜLER
 ## Edanur ÖZTEMUR
