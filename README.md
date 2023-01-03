@@ -1,7 +1,7 @@
 # Haber sitesinden Veri seti oluşturma
 <br/>
 <br/>
-Bu projede bir haber sitesindenen az 100 haberi ve bu haberlerin gerekli bilgilerini de çekip bir veri seti oluşturuyoruz. Ardından stop words ayıklaması yapıp bigram trigram wordcloud grafikleri çizdirip görselleştirme işlemi ve Veri ile Word2Vec modellemesi yaptık.
+Bu projede bir haber sitesinden en az 100 haberi ve bu haberlerin gerekli bilgilerini de çekip bir veri seti oluşturuyoruz. Ardından stop words ayıklaması yapıp bigram trigram wordcloud grafikleri çizdirip görselleştirme işlemi ve Veri ile Word2Vec modellemesi yaptık.
 
 ## Kullanılan Kütüphaneler
 - requests<br/>
