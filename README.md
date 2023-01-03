@@ -110,7 +110,7 @@
 -Yaptığımız modeli test etmek adına şöyle bir örnek yapabiliriz. Gireceğimiz "Dünya" kelimesi ile benzerliği en yüksek olan 15 kelimeyi ve benzerlik oranını getiren bir kod yazalım.
 ### Test:<br/><br/>
 
-![Test](https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+![Test](https://user-images.githubusercontent.com/81531142/210439252-45e2eb9c-8e0f-41f2-b010-2ccabdd74ca6.png)
 
 <br/>
 
@@ -127,7 +127,7 @@
 <br/>
 ### En Yakın 5 Kelime:<br/><br/>
 
-![En Yakın 5 Kelime](https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+![En Yakın 5 Kelime](https://user-images.githubusercontent.com/81531142/210439549-57eb80c7-f90a-413c-9bfa-448c0c3390b4.png)
 
 <br/>
 
