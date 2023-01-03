@@ -58,8 +58,11 @@
 <br/>
 ### En Çok Kullanılan 20 Kelime:<br/><br/>
 
-![En Çok Kullanılan 20 Kelime](https://user-images.githubusercontent.com/81531142/210434722-9b042be4-c8e7-4858-ae67-e47579825924.png) <br/>
-- . İleride yapmak istediğimiz işlemlerin daha doğru sonuçlar vermesini sağlamak için Dolgu Kelimeleri (Stop Words) metnimizden çıkarma işlemini yapmamız lazım. Bu stop words'lerin değerlendirmesini çıkardıktan sonra en popüler 20 kelimenin görseli aşağıdaki grafikteki gibidir.
+![En Çok Kullanılan 20 Kelime](https://user-images.githubusercontent.com/81531142/210434722-9b042be4-c8e7-4858-ae67-e47579825924.png)
+
+<br/>
+
+- İleride yapmak istediğimiz işlemlerin daha doğru sonuçlar vermesini sağlamak için Dolgu Kelimeleri (Stop Words) metnimizden çıkarma işlemini yapmamız lazım. Bu stop words'lerin değerlendirmesini çıkardıktan sonra en popüler 20 kelimenin görseli aşağıdaki grafikteki gibidir.
 
 <br/>
 <br/>
@@ -74,7 +77,7 @@
 <br/>
 ### En Popüler 20 Bigram:<br/><br/>
 
-![En Popüler 20 Bigram] (https://user-images.githubusercontent.com/81531142/210437194-859d1734-10d0-43cf-ae87-82f65f6727c9.png)
+![En Popüler 20 Bigram](https://user-images.githubusercontent.com/81531142/210437194-859d1734-10d0-43cf-ae87-82f65f6727c9.png)
 
 <br/>
 
@@ -83,7 +86,7 @@
 <br/>
 ### En Popüler 20 Trigram:<br/><br/>
 
-![En Popüler 20 Trigram] (https://user-images.githubusercontent.com/81531142/210437178-701a190d-1eba-4b34-bd1b-b18d699fd3ad.png)
+![En Popüler 20 Trigram](https://user-images.githubusercontent.com/81531142/210437178-701a190d-1eba-4b34-bd1b-b18d699fd3ad.png)
 
 <br/>
 
@@ -92,7 +95,7 @@
 <br/>
 ### WordCloud:<br/><br/>
 
-![WordCloud] (https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+![WordCloud](https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
 
 <br/>
 
@@ -107,7 +110,7 @@
 -Yaptığımız modeli test etmek adına şöyle bir örnek yapabiliriz. Gireceğimiz "Dünya" kelimesi ile benzerliği en yüksek olan 15 kelimeyi ve benzerlik oranını getiren bir kod yazalım.
 ### Test:<br/><br/>
 
-![Test] (https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+![Test](https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
 
 <br/>
 
@@ -124,7 +127,7 @@
 <br/>
 ### En Yakın 5 Kelime:<br/><br/>
 
-![En Yakın 5 Kelime] (https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
+![En Yakın 5 Kelime](https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
 
 <br/>
 
