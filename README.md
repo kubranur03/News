@@ -25,6 +25,7 @@
 
 <br/>
 <br/>
+
 ### Veri Seti:<br/><br/>
 
 ![Veri Seti](https://user-images.githubusercontent.com/81531142/210440754-e6b75a63-f1ee-4182-9eaa-355e1243334e.png)
@@ -51,7 +52,9 @@
 
 <br/>
 <br/>
+
 ### Haber Metni Kelime Sayısı:<br/><br/>
+
 ![Haber Metni Kelime Sayısı](https://user-images.githubusercontent.com/81531142/210434748-bae30a88-dac2-4063-9bbc-1d95a693710b.png)
 
 <br/>
@@ -61,6 +64,7 @@
 
 <br/>
 <br/>
+
 ### En Çok Kullanılan 20 Kelime:<br/><br/>
 
 ![En Çok Kullanılan 20 Kelime](https://user-images.githubusercontent.com/81531142/210434722-9b042be4-c8e7-4858-ae67-e47579825924.png)
@@ -71,6 +75,7 @@
 
 <br/>
 <br/>
+
 ### Stop Words sonrası En Popüler 20 kelime:<br/><br/>
 
 ![Stop Words sonrası En Popüler 20 kelime](https://user-images.githubusercontent.com/81531142/210434734-204733aa-97e4-470b-abd9-3f41cff06d60.png)
@@ -130,6 +135,7 @@
 
 - Seçtiğimiz Dünya, Teknoloji, Yapay, Blockchain, Robotik kelimelerine en yakın 5 kelimeyi bulup, bu bulduğumuz verileri bir df içinde tutalım.
 <br/>
+
 ### En Yakın 5 Kelime:<br/><br/>
 
 ![En Yakın 5 Kelime](https://user-images.githubusercontent.com/81531142/210439549-57eb80c7-f90a-413c-9bfa-448c0c3390b4.png)
