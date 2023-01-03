@@ -1,4 +1,7 @@
 # Haber sitesinden Veri seti oluşturma
+<br/>
+<br/>
+Bu projede bir haber sitesinden en az 100 haberi ve bu haberlerin gerekli bilgilerini de çekip bir veri seti oluşturuyoruz. Ardından stop words ayıklaması yapıp bigram trigram wordcloud grafikleri çizdirip görselleştirme işlemi ve Veri ile Word2Vec modellemesi yaptık.
 
 ## Kullanılan Kütüphaneler
 - requests<br/>
@@ -8,7 +11,6 @@
 - matplotlib<br/>
 - Word2Vec<br/>
 - BeautifulSoup<br/>
-<br/>
 <br/>
 
 ## Yapılan İşlemler
@@ -51,7 +53,7 @@
 - Projemizde ek olarak veri setimize eklediğimiz her satırdaki haber metinlerinin kaç harf ve karakterden oluştuğu bilgisini de df’e ekledik. Bu bilgiler ile matplotlib fonksiyonunu kullanarak haber metni kelime sayısı için bir grafik çizdirdik. 
 
 <br/>
-<br/>
+
 
 ### Haber Metni Kelime Sayısı:<br/><br/>
 
@@ -63,7 +65,7 @@
 - Şimdi de haber metinlerinde en çok geçen popüler kelimelerin ilk 20 tanesini totalde kaç kere geçtiği bilgisini de veren listeleme işlemi yaptık. Gördüğümüz gibi en çok kullanılan kelimeleri listelediğimiz zaman stop words olarak adlandırdığımız pek de anlamlı olmayan kelimeler popüler olarak listelenmekte. <br/>
 
 <br/>
-<br/>
+
 
 ### En Çok Kullanılan 20 Kelime:<br/><br/>
 
@@ -74,7 +76,7 @@
 - İleride yapmak istediğimiz işlemlerin daha doğru sonuçlar vermesini sağlamak için Dolgu Kelimeleri (Stop Words) metnimizden çıkarma işlemini yapmamız lazım. Bu stop words'lerin değerlendirmesini çıkardıktan sonra en popüler 20 kelimenin görseli aşağıdaki grafikteki gibidir.
 
 <br/>
-<br/>
+
 
 ### Stop Words sonrası En Popüler 20 kelime:<br/><br/>
 
@@ -93,7 +95,7 @@
 
 -Sonrasında da en çok peşpeşe kullanılan kelime üçlülerini(trigram) listeledik ve matplotlib ile grafiğini çizdirdik.
 <br/>
-<br/>
+
 ### En Popüler 20 Trigram:<br/><br/>
 
 ![En Popüler 20 Trigram](https://user-images.githubusercontent.com/81531142/210437178-701a190d-1eba-4b34-bd1b-b18d699fd3ad.png)
@@ -102,7 +104,7 @@
 
 -Daha görsel bir şey yapmak istediğimiz için WordCloud (Kelime Bulutu) işlemi yaptık. Bu görselleştirme metodu en kısa tanımıyla seçilen metinde kelimenin görünüm sıklığını gösterir ve kelimenin boyutunu kelimenin kullanım sıklığına göre değişir. Daha sonra tüm kelimeler bir küme ya da kelime bulutu şeklinde düzenlenir. Alternatif olarak, kelimeler yatay çizgiler, sütunlar veya bir şekil halinde de düzenlenebilir. Bizde elimizdeki veri seti ile haberlerde en çok kullanılan kelimelerin yoğunluğunu baz alan bir kelime bulutu oluşturduk.
 <br/>
-<br/>
+
 ### WordCloud:<br/><br/>
 
 ![WordCloud](https://user-images.githubusercontent.com/81531142/210437168-6f41e388-5c12-4b0d-9cf5-f5598f03831b.png)
@@ -118,6 +120,7 @@
 <br/>
 
 -Yaptığımız modeli test etmek adına şöyle bir örnek yapabiliriz. Gireceğimiz "Dünya" kelimesi ile benzerliği en yüksek olan 15 kelimeyi ve benzerlik oranını getiren bir kod yazalım.
+<br/>
 ### Test:<br/><br/>
 
 ![Test](https://user-images.githubusercontent.com/81531142/210439252-45e2eb9c-8e0f-41f2-b010-2ccabdd74ca6.png)
@@ -143,8 +146,8 @@
 <br/>
 
 
-## Kübra Nur GÜLER<br/><br/>
-## Edanur ÖZTEMUR<br/><br/>
+## Kübra Nur GÜLER - 181906079<br/><br/>
+## Edanur ÖZTEMUR - 193405052<br/><br/>
 
 
 
