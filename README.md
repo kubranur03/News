@@ -52,7 +52,6 @@
 <br/>
 <br/>
 ### Haber Metni Kelime Sayısı:<br/><br/>
-
 ![Haber Metni Kelime Sayısı](https://user-images.githubusercontent.com/81531142/210434748-bae30a88-dac2-4063-9bbc-1d95a693710b.png)
 
 <br/>
