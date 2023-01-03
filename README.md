@@ -24,6 +24,12 @@
 - Çektiğimiz verileri kaybetmemek için kaydettiğimiz dataframe’i doldurduktan sonra .xlsx uzantısında excel formda kaydettik.
 
 <br/>
+<br/>
+### Veri Seti:<br/><br/>
+
+![Veri Seti](https://user-images.githubusercontent.com/81531142/210440754-e6b75a63-f1ee-4182-9eaa-355e1243334e.png)
+
+<br/>
 
 
 - Url adreslerinden verileri daha hızlı bir şekilde çekebilmek için NewSet isminde url parametresi alan bir fonksiyon tanımladık. Haberleri alacağımız sitenin url’sine bağlandıktan sonra ilgili url’nin içeriğini uygun formatta parçaladık.
